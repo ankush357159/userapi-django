@@ -25,7 +25,7 @@ class RegisterSerializer(serializers.ModelSerializer):
         return user
         
 
-
+#This data may be used later
 
 # .data - Returns the outgoing primitive representation.
 # .is_valid() - Deserializes and validates incoming data.
